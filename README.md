@@ -2,7 +2,7 @@
 
 Contoh Loading Animation
 
-![Screenshot Animasi](images\01.png)
+![Screenshot Animasi](images/01.png)
 
 ## Getting Started
 
